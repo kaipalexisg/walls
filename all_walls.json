@@ -38,6 +38,30 @@
                         "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall6.png",
                         "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall6_small.png"
 
-	}
+	},
+	 {
+		"name": "Wall 7",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall7.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall7_small.png"
+	},
+	{
+		"name": "Wall 8",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall8.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall8_small.png"
 
+	},
+	{
+		"name": "Wall 9",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall9.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall9_small.png"
+	},
+	{
+		"name": "Wall 10",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall10.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall10_small.png"
+	}
 	        ]
