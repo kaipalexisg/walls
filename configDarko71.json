@@ -1,9 +1,9 @@
 {
-  "latestVersion": "7.1",
-  "latestVersionCode": 72,
+  "latestVersion": "7.2",
+  "latestVersionCode": 73,
   "disableRequest": {
-    "below": 72,
-    "on": "71 70 69 68"
+    "below": 73,
+    "on": "72 71 70 69 68"
   },
   "url": "https://play.google.com/store/apps/details?id=com.darkopd.iconpack",
   "releaseNotes": [
