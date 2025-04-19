@@ -1,5 +1,43 @@
 [
-  
+  {
+		"name": "2Wall 1",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/2wall1.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/2wall1_small.png"
+	},
+	{
+		"name": "Wall 2",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/2wall2.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/2wall2_small.png"
+
+	},
+	{
+		"name": "Wall 3",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/2wall3.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/2wall3_small.png"
+	},
+	{
+		"name": "Wall 4",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/2wall4.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/2wall4_small.png"
+
+	},
+	{
+		"name": "Wall 5",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/2wall5.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/2wall5_small.png"
+	},
+	{
+		"name": "Wall 6",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/2wall6.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/2wall6_small.png"
+
+	},
   {
 		"name": "Wall 1",
 		"author": "George Kaipalexis",
