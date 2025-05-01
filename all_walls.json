@@ -1,4 +1,30 @@
 [
+   {
+		"name": "Eui 1",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/eui1.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/eui1_small.png"
+	},
+	{
+		"name": "Eui 2",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/eui2.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/eui2_small.png"
+
+	},
+	{
+		"name": "Eui 3",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/eui3.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/eui3_small.png"
+	},
+	{
+		"name": "Eui 4",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/eui4.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/eui4_small.png"
+
+	},
   {
 		"name": "2Wall 1",
 		"author": "George Kaipalexis",
