@@ -25,6 +25,19 @@
                         "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/eui4_small.png"
 
 	},
+	  {
+		"name": "Eui 5",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/eui5.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/eui5_small.png"
+	},
+	{
+		"name": "Eui 6",
+		"author": "George Kaipalexis",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/eui6.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/eui6_small.png"
+
+	},
   {
 		"name": "2Wall 1",
 		"author": "George Kaipalexis",
