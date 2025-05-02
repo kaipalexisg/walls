@@ -1,13 +1,13 @@
 {
-  "latestVersion": "7.2",
-  "latestVersionCode": 73,
+  "latestVersion": "7.3",
+  "latestVersionCode": 74,
   "disableRequest": {
-    "below": 73,
-    "on": "72 71 70 69 68"
+    "below": 74,
+    "on": "73 72 71 70 69 68"
   },
   "url": "https://play.google.com/store/apps/details?id=com.darkopd.iconpack",
   "releaseNotes": [
     "Fixed missing activities",
-	"Added 52 new icons"
+	"Added 40 new icons"
   ]
 }
