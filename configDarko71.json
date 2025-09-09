@@ -1,14 +1,14 @@
 {
-  "latestVersion": "7.8",
-  "latestVersionCode": 79,
+  "latestVersion": "7.9",
+  "latestVersionCode": 80,
   "disableRequest": {
     "below": 79,
-    "on": "78 77 76 75 74 73 72 71 70 69 68"
+    "on": "79n78 77 76 75 74 73 72 71 70 69 68"
   },
   "url": "https://play.google.com/store/apps/details?id=com.darkopd.iconpack",
   "releaseNotes": [
     "Fixed missing activities",
-	"Added 55 new icons",
+	"Added 35 new icons",
 	"Check OneUI-7 Dark iconpack https://play.google.com/store/apps/details?id=com.oneui7d.iconpack"
   ]
 }
