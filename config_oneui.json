@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.9",
-  "latestVersionCode": 10,
+  "latestVersion": "2.0",
+  "latestVersionCode": 11,
   "disableRequest": {
     "below": 10,
-    "on": "1 2 3 4 5 6 7 8 9"
+    "on": "1 2 3 4 5 6 7 8 9 10"
   },
   "url": "https://play.google.com/store/apps/details?id=com.oneui7d.iconpack",
   "releaseNotes": [
-	"Added 46 icons"
+	"Added 54 icons"
   ]
 }
