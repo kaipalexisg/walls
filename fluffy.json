@@ -1,8 +1,5 @@
-{
-	"Wallpapers":
-		[           
-	
-					{
+[
+ 					{
                         "author": "kaipalexisg",
                         "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master//fluffy.png",
                         "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master//fluffy_small.png",
@@ -128,6 +125,4 @@
                         "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master//fluffy20_small.png",
                         "name": "fluffy20"
                     }
-
-		]
-}
+        ]
