@@ -58,6 +58,24 @@
                         "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master//halloween9.png",
                         "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master//halloween9_small.png",
                         "name": "halloween9"
+                    },
+					                   {
+                        "author": "kaipalexisg",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master//halloween10.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master//halloween10_small.png",
+                        "name": "halloween10"
+                    },
+				    {
+                        "author": "kaipalexisg",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master//halloween11.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master//halloween11_small.png",
+                        "name": "halloween11"
+                    },
+					{
+                        "author": "kaipalexisg",
+                        "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master//halloween12.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master//halloween12_small.png",
+                        "name": "halloween12"
                     }
 
         ]
