@@ -1,19 +1,19 @@
 [
   {
-    "id": "04_bull_light",
-    "title": "FunFold Spirit",
+    "id": "21_bull_midnight",
+    "title": "FunFold Midnight",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/04_bull_light-c28d1268954d.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/04_bull_light-132b8bcecd68.webp",
     "category": "FunFold Originals",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/21_bull_midnight-77e7f81a299c.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/21_bull_midnight-ad018ed3c427.webp",
     "featured": true
   },
   {
     "id": "01_folded_fox",
     "title": "Paper Fox",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/01_folded_fox-736a09c48260.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/01_folded_fox-afa3459a83e7.webp",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/01_folded_fox-07aa2367c6fc.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/01_folded_fox-63c924e65299.webp",
     "category": "FunFold Originals",
     "featured": false
   },
@@ -36,11 +36,20 @@
     "featured": false
   },
   {
+    "id": "04_bull_light",
+    "title": "FunFold Spirit",
+    "author": "Phunktastic Designs",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/04_bull_light-4edaccd65fcf.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/04_bull_light-efaa3572c9c6.webp",
+    "category": "FunFold Originals",
+    "featured": false
+  },
+  {
     "id": "05_alpine_lake",
     "title": "Alpine Dream",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/05_alpine_lake-ce2ac1fb31a6.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/05_alpine_lake-c1dadfe2ac59.webp",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/05_alpine_lake-9c9e11520d2c.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/05_alpine_lake-bef90466c932.webp",
     "category": "FunFold Originals",
     "featured": false
   },
@@ -48,8 +57,8 @@
     "id": "06_lighthouse_island",
     "title": "Lighthouse Above the Clouds",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/06_lighthouse_island-ea3f35dcf5fb.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/06_lighthouse_island-5fce05e8516c.webp",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/06_lighthouse_island-672124923c04.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/06_lighthouse_island-1fa4449ab4cb.webp",
     "category": "FunFold Originals",
     "featured": false
   },
@@ -57,8 +66,8 @@
     "id": "07_enchanted_forest",
     "title": "Enchanted Paper Forest",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/07_enchanted_forest-0d734f19c647.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/07_enchanted_forest-6b69b5a2fada.webp",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/07_enchanted_forest-87807a42ff1b.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/07_enchanted_forest-3505e34923d9.webp",
     "category": "FunFold Originals",
     "featured": false
   },
@@ -66,8 +75,8 @@
     "id": "08_greek_island",
     "title": "Aegean Dream",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/08_greek_island-abfa3552b7fd.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/08_greek_island-d2f6d76e96de.webp",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/08_greek_island-2cef85672da3.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/08_greek_island-a28e9201ab83.webp",
     "category": "FunFold Originals",
     "featured": false
   },
@@ -75,8 +84,8 @@
     "id": "09_cartoon_gorilla",
     "title": "Gentle Giant",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/09_cartoon_gorilla-2e40899f26a7.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/09_cartoon_gorilla-0eb0a498667e.webp",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/09_cartoon_gorilla-8be115727785.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/09_cartoon_gorilla-ee3ac92c1b34.webp",
     "category": "FunFold Originals",
     "featured": false
   },
@@ -84,8 +93,8 @@
     "id": "10_panda_teacup",
     "title": "Panda in a Teacup",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/10_panda_teacup-b41b3dd568aa.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/10_panda_teacup-75851cefe9fc.webp",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/10_panda_teacup-59a9b2cfbdfa.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/10_panda_teacup-6d0d94451976.webp",
     "category": "FunFold Originals",
     "featured": false
   },
@@ -102,8 +111,8 @@
     "id": "12_running_horse",
     "title": "Run Free",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/12_running_horse-888f0274d4e3.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/12_running_horse-98646d41c748.webp",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/12_running_horse-e1e87ed55c37.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/12_running_horse-ba9fd630b0ed.webp",
     "category": "FunFold Originals",
     "featured": false
   },
@@ -111,8 +120,8 @@
     "id": "13_star_librarian_owl",
     "title": "The Star Librarian",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/13_star_librarian_owl-2984bce47ecb.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/13_star_librarian_owl-eef33f627a34.webp",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/13_star_librarian_owl-5c8b178e3b9f.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/13_star_librarian_owl-668536da2109.webp",
     "category": "FunFold Originals",
     "featured": false
   },
@@ -129,8 +138,8 @@
     "id": "15_snail_mobile_cottage",
     "title": "Home on the Move",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/15_snail_mobile_cottage-d5e5b9ebf3ff.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/15_snail_mobile_cottage-fb4775dd0b00.webp",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/15_snail_mobile_cottage-1c7a0e4cb56b.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/15_snail_mobile_cottage-1cc517dd8e51.webp",
     "category": "FunFold Originals",
     "featured": false
   },
@@ -138,8 +147,8 @@
     "id": "16_coral_turtle",
     "title": "Coral Friends",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/16_coral_turtle-58933a8ba28c.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/16_coral_turtle-11dc186ca5bc.webp",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/16_coral_turtle-7c4afc026af0.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/16_coral_turtle-b220d74c1a90.webp",
     "category": "FunFold Originals",
     "featured": false
   },
@@ -147,8 +156,8 @@
     "id": "17_raccoon_airship_pilot",
     "title": "Sky Explorer",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/17_raccoon_airship_pilot-5a698dcc1f21.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/17_raccoon_airship_pilot-09b0c80ae794.webp",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/17_raccoon_airship_pilot-2cb0fe58e731.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/17_raccoon_airship_pilot-45e69d9cdcf0.webp",
     "category": "FunFold Originals",
     "featured": false
   },
@@ -156,8 +165,8 @@
     "id": "18_desert_clockwork_train",
     "title": "Canyon Express",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/18_desert_clockwork_train-c85c894789c3.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/18_desert_clockwork_train-58e2d1e17481.webp",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/18_desert_clockwork_train-c04f6e8bbdb6.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/18_desert_clockwork_train-de11e7bce038.webp",
     "category": "FunFold Originals",
     "featured": false
   },
@@ -165,8 +174,8 @@
     "id": "19_hedgehog_bakery",
     "title": "The Little Baker",
     "author": "Phunktastic Designs",
-    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/19_hedgehog_bakery-0233251597f1.webp",
-    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/19_hedgehog_bakery-5af9768227d8.webp",
+    "imageUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/full/19_hedgehog_bakery-eb4598a61474.webp",
+    "thumbnailUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/funfold-originals/preview/19_hedgehog_bakery-528f97cc4543.webp",
     "category": "FunFold Originals",
     "featured": false
   },
