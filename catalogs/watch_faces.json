@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "watchFaces": [
+    {
+      "id": "com_phunktastic_illuminator",
+      "name": "ILLUMINATOR: Retro Watch Face",
+      "image": "https://raw.githubusercontent.com/kaipalexisg/walls/main/catalogs/watch_faces/illuminator-1d7d9b75eb43.png",
+      "packageName": "com.phunktastic.illuminator",
+      "url": "https://play.google.com/store/apps/details?id=com.phunktastic.illuminator",
+      "description": "80s retro digital watch face with AOD, weather, steps and battery.",
+      "status": "AVAILABLE"
+    }
+  ]
+}
+
