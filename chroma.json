@@ -78,6 +78,157 @@
     "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/chroma-originals/azure-motion-full-1bbbd77c820581ab.jpg",
     "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/main/chroma-originals/azure-motion-preview-244b7b2bdb5028d7.jpg",
     "collections": "Chroma Originals"
+  },
+  {
+    "id": "3dplastic1",
+    "name": "Fox",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_01_fox.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_01_fox_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic2",
+    "name": "Lion Cub Cartoon",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_02_lion_cub_cartoon.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_02_lion_cub_cartoon_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic3",
+    "name": "Zeus Cartoon",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_03_zeus_cartoon.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_03_zeus_cartoon_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic4",
+    "name": "Zeus Classical",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_04_zeus_classical.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_04_zeus_classical_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic5",
+    "name": "Zeus Original",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_05_zeus_original.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_05_zeus_original_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic6",
+    "name": "Lion Cub Original",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_06_lion_cub_original.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_06_lion_cub_original_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic7",
+    "name": "Athena",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_07_athena.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_07_athena_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic8",
+    "name": "Ares",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_08_ares.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_08_ares_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic9",
+    "name": "Sailing Ship",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_09_ship.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_09_ship_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic10",
+    "name": "Mountain Sun",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_10_mountain_sun.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_10_mountain_sun_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic11",
+    "name": "Greek Geometry",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_11_greek_geometry.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_11_greek_geometry_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic12",
+    "name": "Saturn",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_12_saturn.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_12_saturn_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic13",
+    "name": "Moonrise",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_13_moonrise.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_13_moonrise_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic14",
+    "name": "Glossy Sides Dark",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_14_glossy_sides_dark.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_14_glossy_sides_dark_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic15",
+    "name": "Glossy Sides Color",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_15_glossy_sides_color.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_15_glossy_sides_color_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic16",
+    "name": "Glossy Sides Warm",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_16_glossy_sides_warm.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_16_glossy_sides_warm_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic17",
+    "name": "Glossy Top Bottom",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_17_glossy_top_bottom.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_17_glossy_top_bottom_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic18",
+    "name": "Glossy Side Accents",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_18_glossy_side_accents.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_18_glossy_side_accents_small.png",
+    "collections": "3D Plastic Collection"
+  },
+  {
+    "id": "3dplastic19",
+    "name": "Glossy Top Accents",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_19_glossy_top_accents.png",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/master/3dplastic_19_glossy_top_accents_small.png",
+    "collections": "3D Plastic Collection"
   }
 ]
-
