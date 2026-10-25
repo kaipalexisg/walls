@@ -1,5 +1,37 @@
 [
   {
+    "id": "retron-paper-whale-v1",
+    "name": "Paper Whale",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retron-originals/paper-whale-v1-full-14b584ac2bf9dc6f.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retron-originals/paper-whale-v1-preview-cdb77b7392bb620e.jpg",
+    "collections": "Retron Originals"
+  },
+  {
+    "id": "retron-paper-fox-v1",
+    "name": "Paper Fox",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retron-originals/paper-fox-v1-full-c1f5a177235b9d26.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retron-originals/paper-fox-v1-preview-57ec2671db088451.jpg",
+    "collections": "Retron Originals"
+  },
+  {
+    "id": "retron-sleeping-cat-v1",
+    "name": "Moonlit Cat",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retron-originals/sleeping-cat-v1-full-3890a4799d59f222.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retron-originals/sleeping-cat-v1-preview-749138b36257ddd2.jpg",
+    "collections": "Retron Originals"
+  },
+  {
+    "id": "retron-autumn-tree-v1",
+    "name": "Autumn Tree",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retron-originals/autumn-tree-v1-full-274dca6f8bd5d7d0.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retron-originals/autumn-tree-v1-preview-80b6f8973bb0a172.jpg",
+    "collections": "Retron Originals"
+  },
+  {
     "id": "retron-paper-owl-v1",
     "name": "Paper Owl",
     "author": "Phunktastic Designs",
@@ -13,6 +45,14 @@
     "author": "Phunktastic Designs",
     "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retron-originals/mediterranean-island-v1-full-73aa9276f7f7765e.jpg",
     "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retron-originals/mediterranean-island-v1-preview-056835736962441b.jpg",
+    "collections": "Retron Originals"
+  },
+  {
+    "id": "retron-paper-koala-v1",
+    "name": "Paper Koala",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retron-originals/paper-koala-v1-full-0032e1e961739d09.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retron-originals/paper-koala-v1-preview-cda0c9a807a96b92.jpg",
     "collections": "Retron Originals"
   },
   {
