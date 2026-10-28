@@ -9,7 +9,15 @@
       "url": "https://play.google.com/store/apps/details?id=com.phunktastic.illuminator",
       "description": "80s retro digital watch face with AOD, weather, steps and battery.",
       "status": "AVAILABLE"
+    },
+    {
+      "id": "com_phunktastic_goldv4",
+      "name": "Gold V4 – Watch Face",
+      "packageName": "com.phunktastic.goldv4",
+      "url": "https://play.google.com/store/apps/details?id=com.phunktastic.goldv4",
+      "description": "Premium hybrid watch face with analog hands, digital time and daily stats",
+      "status": "AVAILABLE",
+      "image": "https://raw.githubusercontent.com/kaipalexisg/walls/main/catalogs/watch_faces/gold-v4-a1f535246eed.png"
     }
   ]
 }
-
