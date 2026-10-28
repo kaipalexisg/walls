@@ -1,0 +1,72 @@
+[
+  {
+    "id": "comicon-01-midnight-owl",
+    "name": "Midnight Owl",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/01-midnight-owl.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/01-midnight-owl-preview.jpg"
+  },
+  {
+    "id": "comicon-02-space-cat",
+    "name": "Space Cat",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/02-space-cat.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/02-space-cat-preview.jpg"
+  },
+  {
+    "id": "comicon-03-aegean-island",
+    "name": "Aegean Island",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/03-aegean-island.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/03-aegean-island-preview.jpg"
+  },
+  {
+    "id": "comicon-04-pocket-robot",
+    "name": "Pocket Robot",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/04-pocket-robot.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/04-pocket-robot-preview.jpg"
+  },
+  {
+    "id": "comicon-05-tiger-artist",
+    "name": "Tiger Artist",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/05-tiger-artist.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/05-tiger-artist-preview.jpg"
+  },
+  {
+    "id": "comicon-06-orbital-sculpture",
+    "name": "Orbital Sculpture",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/06-orbital-sculpture.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/06-orbital-sculpture-preview.jpg"
+  },
+  {
+    "id": "comicon-07-retro-sound",
+    "name": "Retro Sound",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/07-retro-sound.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/07-retro-sound-preview.jpg"
+  },
+  {
+    "id": "comicon-08-prism-fold",
+    "name": "Prism Fold",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/08-prism-fold.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/08-prism-fold-preview.jpg"
+  },
+  {
+    "id": "comicon-09-racing-red",
+    "name": "Racing Red",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/09-racing-red.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/09-racing-red-preview.jpg"
+  },
+  {
+    "id": "comicon-10-moon-whale",
+    "name": "Moon Whale",
+    "author": "Phunktastic Designs",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/10-moon-whale.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/comicon-originals/10-moon-whale-preview.jpg"
+  }
+]
