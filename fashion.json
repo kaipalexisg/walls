@@ -1,5 +1,41 @@
 [
   {
+    "name": "Teal Balloon",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/fashion-originals/teal-balloon.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/fashion-originals/teal-balloon-thumb.jpg"
+  },
+  {
+    "name": "Raccoon Tailor",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/fashion-originals/raccoon-tailor.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/fashion-originals/raccoon-tailor-thumb.jpg"
+  },
+  {
+    "name": "Vintage Ride",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/fashion-originals/vintage-ride.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/fashion-originals/vintage-ride-thumb.jpg"
+  },
+  {
+    "name": "Aegean Stitches",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/fashion-originals/aegean-stitches.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/fashion-originals/aegean-stitches-thumb.jpg"
+  },
+  {
+    "name": "Hummingbird",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/fashion-originals/hummingbird.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/fashion-originals/hummingbird-thumb.jpg"
+  },
+  {
+    "name": "Celestial Compass",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/fashion-originals/celestial-compass.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/fashion-originals/celestial-compass-thumb.jpg"
+  },
+  {
     "name": "Funko 1",
     "author": "George Kaipalexis",
     "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/fashion1.png",
@@ -1203,4 +1239,3 @@
     "thumbUrl": "https://i.postimg.cc/k5V2Pn8c/wall-35-small.png"
   }
 ]
-
