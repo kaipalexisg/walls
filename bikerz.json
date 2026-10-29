@@ -38,8 +38,9 @@
   {
     "name": "Midnight Rebel",
     "author": "George Kaipalexis",
-    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/bikerz-originals/midnight-rebel.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/bikerz-originals/midnight-rebel-thumb.jpg"
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/bikerz-originals/midnight-rebel-background-v3.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/bikerz-originals/midnight-rebel-background-v3-thumb.jpg",
+    "id": "872ecd1f61bdc567aa667dae08c0de0027fe53f5cf56c1f04d92286f250d3b01"
   },
   {
     "name": "Blue Heritage",
@@ -50,14 +51,16 @@
   {
     "name": "Rebel Mountain Pass",
     "author": "George Kaipalexis",
-    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/bikerz-originals/rebel-mountain-pass.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/bikerz-originals/rebel-mountain-pass-thumb.jpg"
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/bikerz-originals/rebel-mountain-pass-background-v3.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/bikerz-originals/rebel-mountain-pass-background-v3-thumb.jpg",
+    "id": "d5411384809f30174af667e40297e2714b5ba35fc26cbdb0964e92648c75758a"
   },
   {
     "name": "Rebel Coastal Dusk",
     "author": "George Kaipalexis",
-    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/bikerz-originals/rebel-coastal-dusk.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/bikerz-originals/rebel-coastal-dusk-thumb.jpg"
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/bikerz-originals/rebel-coastal-dusk-background-v3.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/bikerz-originals/rebel-coastal-dusk-background-v3-thumb.jpg",
+    "id": "5618ae2fbcfdf8902eb2e76c9fd6eecf6e8fe200a43fa1a6ec137459659b26fc"
   },
   {
     "name": "bikerz",
@@ -1197,3 +1200,4 @@
     "thumbUrl": "https://i.postimg.cc/k5V2Pn8c/wall-35-small.png"
   }
 ]
+
