@@ -1,0 +1,378 @@
+[
+  {
+    "id": "ergon-original-cosmic-otter-20261030",
+    "name": "Cosmic Otter",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/cosmic-otter.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/cosmic-otter-thumb.jpg"
+  },
+  {
+    "id": "ergon-original-kingfisher-20261030",
+    "name": "Kingfisher",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/kingfisher.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/kingfisher-thumb.jpg"
+  },
+  {
+    "id": "ergon-original-aegean-miniature-20261030",
+    "name": "Aegean Miniature",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/aegean-miniature.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/aegean-miniature-thumb.jpg"
+  },
+  {
+    "id": "ergon-original-chromatic-orbit-20261030",
+    "name": "Chromatic Orbit",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/chromatic-orbit.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/chromatic-orbit-thumb.jpg"
+  },
+  {
+    "id": "ergon-original-robot-gardener-20261030",
+    "name": "Robot Gardener",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/robot-gardener.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/robot-gardener-thumb.jpg"
+  },
+  {
+    "id": "ergon-original-night-beacon-20261030",
+    "name": "Night Beacon",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/night-beacon.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/night-beacon-thumb.jpg"
+  },
+  {
+    "id": "ergon-original-paper-manta-20261030",
+    "name": "Paper Manta",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/paper-manta.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/paper-manta-thumb.jpg"
+  },
+  {
+    "id": "ergon-original-ribbon-dunes-20261030",
+    "name": "Ribbon Dunes",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/ribbon-dunes.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/ergon-originals/ribbon-dunes-thumb.jpg"
+  },
+  {
+    "name": "Wall_A",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_33.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_33_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "9c94e7b942f5babbcfafd0107fce3e3693e7dfe229cecff885743b498f19fe4f"
+  },
+  {
+    "name": "Wall_B",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_32.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_32_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "8451a17ac44c92a764c4e5df43c567545a9dc4b4e811d476c6ca169f9104fa26"
+  },
+  {
+    "name": "Wall_C",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_31.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_31_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "755d5265319c4ec830c2bc647a17e59799c2a2ae73008eff856760434b6c16c0"
+  },
+  {
+    "name": "Wall_D",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_30.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_30_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "ed2ea33e94c25114abe4862c959669cb82e77dddba44fb8d2e00a4363d7568d9"
+  },
+  {
+    "name": "Wall_E",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_29.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_29_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "650968d3c612a09f3215f1944dfadef5cfe9dc39938ea39033e771e2099ae98b"
+  },
+  {
+    "name": "Wall_F",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_28.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_28_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "6ccca0be9d43cde2f72cb00cdf8c2b078894dd461ca6ba334f76c44f8f9c8d62"
+  },
+  {
+    "name": "Wall_G",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_27.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_27_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "e4c5ff4724628f55dbaba97627272bf2e10bfeaef459b8cbf692b1b2f5299676"
+  },
+  {
+    "name": "Wall_H",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_26.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_26_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "ceaf79b2ce3c52c74b5fae0b47764a06f62f11254daa119cef564306c0fa3873"
+  },
+  {
+    "name": "Wall_I",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_25.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_25_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "d06ed26d0cc8916441152eae6feb7596b2031d624998f9a4bc1dfec49daacffa"
+  },
+  {
+    "name": "Wall_J",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_24.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_24_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "75cdff0a80b27ebca63120855876ec653dbfc0cf41a78f864c762bafb854e351"
+  },
+  {
+    "name": "Wall_K",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_23.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_23_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "8766b90f76c29984948800566d4413180e1af1be4e9b3edba50bdd84aee2afc8"
+  },
+  {
+    "name": "Wall_L",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_22.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_22_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "aed272e2673967e097d15d50a9157dfa93c5464a420ac8e1cd1f3dc904ee6f21"
+  },
+  {
+    "name": "Wall_M",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_21.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_21_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "43de7da9d10dfa7637139db3267296e0689d0be282d429047566420a563b3df4"
+  },
+  {
+    "name": "Wall_N",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_20.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_20_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "49d9f89c3fbda8b6e89996f5a45c81fa7ed10ff75529758f4a45429ca3f0a8b0"
+  },
+  {
+    "name": "Wall_O",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_19.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_19_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "b5894fbde81084520c6fb22327cf1830ae690a90e752bb78dc99822a8e667cbc"
+  },
+  {
+    "name": "Wall_P",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_18.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_18_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "71fa9cb4f9603d1b58d8db59d7a9c1842ffdda99766513977304287a23ca51b0"
+  },
+  {
+    "name": "Wall_Q",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_17.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_17_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "e72e078966809fe85afaabab44036ef740187863f0afe70e9e2e067ed51bb738"
+  },
+  {
+    "name": "Wall_B",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_16.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_16_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "4ebb3f46a0e9c4ed2696c799068550a74aed9b89f7fc37f7dd6b389d135a7660"
+  },
+  {
+    "name": "Wall_C",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_15.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_15_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "65977f952f70974c1f4daf4d74a741cab4b799931639b491d4e7318488990c6e"
+  },
+  {
+    "name": "Wall_D",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_14.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_14_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "29e5993cdfcce741395b4148bf16e68fdf6733da3b7fa1e56b4b2288a1df5dc7"
+  },
+  {
+    "name": "Wall_E",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_13.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_13_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "79729a8797ef8bafd2880c796b4e8421d7118c553d4dca7e26f6114afe17a36e"
+  },
+  {
+    "name": "Wall_F",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_12.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_12_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "a58633e36d503219d8a01f9897bfb47f2c41254b7023ffaa1e9286d821143208"
+  },
+  {
+    "name": "Wall_G",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_11.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_11_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "f2068a1b9b0c5ecd4bf29226de023a41bf7c6db827da43e68a95e15246b33e7c"
+  },
+  {
+    "name": "Wall_H",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_10.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_10_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "7b3cc5e61d8a0a60e5dc91359bc05bb5c3d05e53d45b85cd0c8cc5214aa9154e"
+  },
+  {
+    "name": "Wall_I",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_9.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_9_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "9c2fe2db8ed1a330b5ab7c5bcc6ca5522c509e8d41fbddaee52a3db9ecd71630"
+  },
+  {
+    "name": "Wall_J",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_8.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_8_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "3b31a5200187d8e1e250f81f93a41a33dc417f4c54f8f2db9c1ff21a84fcd0a6"
+  },
+  {
+    "name": "Wall_K",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_7.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_7_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "f8d9fc9915cbc0bb3d0d4d9c11d71c3003942dfcabd60f61d4669896cf3aa52c"
+  },
+  {
+    "name": "Wall_L",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_6.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_6_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "3a4915456c46f820304fb8e50334d354227c5c696af7355cd3441fe512965cdb"
+  },
+  {
+    "name": "Wall_M",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_5.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_5_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "30490bdc0e0765a846a88e7a1caa52d35aa24e21a26869fb93328ccfd2bbcbff"
+  },
+  {
+    "name": "Wall_N",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_4.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_4_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "d5e83a0a6957799c9d13d216ed51f6b7c551f4acd48b2e181add24e55fce6186"
+  },
+  {
+    "name": "Wall_O",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_3.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_3_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "8af0479e820a072df09bf4296d89466b13e3d63b20858416149af55acdcac776"
+  },
+  {
+    "name": "Wall_P",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_2.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_2_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "7455ec78f4a23f8f1fad42574fb67c01c03c54d6b4f48b285b1be34b43d9bb18"
+  },
+  {
+    "name": "Wall_Q",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_1.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/wall_1_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "ff4154bb90b46e88f10061b5bbb5b5e6958d5e59339d3d7f6cc1bc96d2755dd0"
+  },
+  {
+    "name": "Wall_Ergon1",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_32.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_32_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "dbe302474fb5b0794b241598661b84d2a937fc814dcb7b6adf8e6a08b2608000"
+  },
+  {
+    "name": "Wall_Ergon2",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_34.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/dwall_34_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "c6765384a965bd0647f5ef8e25d2f4ee64fcde9e47cbfe03c5f1facb9764f596"
+  },
+  {
+    "name": "Wall_Ergon3",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon1.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon1_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "d8dfe4cc1c00846d8530150ca0fcecc9929e8ed7358b6f7750d6005eb5c41476"
+  },
+  {
+    "name": "Wall_Ergon4",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon2.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon2_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "71234dbdeb3d3d87bccc9a5703eb34aae6f1ac302c2ae07c9be89364d3c99d8d"
+  },
+  {
+    "name": "Wall_Ergon5",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon3.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon3_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "b089f5dfdab1645f6d95ac2ac0e60f84ebb0851ef78e9f9dd53d8d1e2913b83e"
+  },
+  {
+    "name": "Wall_Ergon6",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon4.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon4_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "c3139982f162383056b7e2d0ff2dcca299384497cf5459bb156554e33c30035b"
+  },
+  {
+    "name": "Wall_Ergon7",
+    "author": "Someone",
+    "url": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon5.png",
+    "thumbnail": "https://raw.githubusercontent.com/gkaipale/MyFiles/master/Ergon5_small.png",
+    "collections": "featured,landscapes,people",
+    "id": "c50494643d575c81dea4af9acab7a49d0c3371577cb7c2dca373a8263d23025b"
+  }
+]
