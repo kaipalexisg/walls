@@ -1,5 +1,19 @@
 [
   {
+    "id": "retrohifi-original-gunmetal-panther-20261101",
+    "name": "Gunmetal Panther",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retrohifi-originals/gunmetal-panther.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retrohifi-originals/gunmetal-panther-thumb.jpg"
+  },
+  {
+    "id": "retrohifi-original-titanium-session-20261101",
+    "name": "Titanium Session",
+    "author": "George Kaipalexis",
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retrohifi-originals/titanium-session.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/retrohifi-originals/titanium-session-thumb.jpg"
+  },
+  {
     "id": "retrohifi-original-panther-alloy-20261101",
     "name": "Panther Alloy",
     "author": "George Kaipalexis",
