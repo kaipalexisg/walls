@@ -174,8 +174,8 @@
   {
     "name": "2Wall 1",
     "author": "George Kaipalexis",
-    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/026-2wall1.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/026-2wall1-preview.jpg"
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/2wall1.png?v=darko-portrait-2",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/2wall1_small.png?v=darko-portrait-2"
   },
   {
     "name": "Wall 2",
@@ -210,8 +210,8 @@
   {
     "name": "Wall 1",
     "author": "George Kaipalexis",
-    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/032-wall1.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/032-wall1-preview.jpg"
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall1.png?v=darko-portrait-2",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall1_small.png?v=darko-portrait-2"
   },
   {
     "name": "Wall 2",
@@ -252,14 +252,14 @@
   {
     "name": "Wall 8",
     "author": "George Kaipalexis",
-    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/039-wall8.png",
-    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/039-wall8-preview.png"
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall8.png?v=darko-portrait-2",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall8_small.png?v=darko-portrait-2"
   },
   {
     "name": "Wall 9",
     "author": "George Kaipalexis",
-    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/040-wall9.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/040-wall9-preview.jpg"
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall9.png?v=darko-portrait-2",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall9_small.png?v=darko-portrait-2"
   },
   {
     "name": "Wall 10",
@@ -1557,26 +1557,26 @@
   {
     "name": "Wall_Jeff1",
     "author": "George Kaipalexis",
-    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/250-wall_jeff1.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/250-wall_jeff1-preview.jpg"
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall_Jeff1.png?v=darko-portrait-2",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall_Jeff1_small.png?v=darko-portrait-2"
   },
   {
     "name": "Wall_Jeff2",
     "author": "George Kaipalexis",
-    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/251-wall_jeff2.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/251-wall_jeff2-preview.jpg"
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall_Jeff2.png?v=darko-portrait-2",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall_Jeff2_small.png?v=darko-portrait-2"
   },
   {
     "name": "Wall_Jeff3",
     "author": "George Kaipalexis",
-    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/252-wall_jeff3.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/252-wall_jeff3-preview.jpg"
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall_Jeff3.png?v=darko-portrait-2",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall_Jeff3_small.png?v=darko-portrait-2"
   },
   {
     "name": "Wall_Jeff4",
     "author": "George Kaipalexis",
-    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/253-wall_jeff4.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/main/darko-legacy-portrait/253-wall_jeff4-preview.jpg"
+    "url": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall_Jeff4.png?v=darko-portrait-2",
+    "thumbUrl": "https://raw.githubusercontent.com/kaipalexisg/walls/master/Wall_Jeff4_small.png?v=darko-portrait-2"
   }
 ]
 
