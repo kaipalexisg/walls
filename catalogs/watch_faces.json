@@ -18,6 +18,13 @@
       "description": "Premium hybrid watch face with analog hands, digital time and daily stats",
       "status": "AVAILABLE",
       "image": "https://raw.githubusercontent.com/kaipalexisg/walls/main/catalogs/watch_faces/gold-v4-a1f535246eed.png"
+    },
+    {
+      "id": "com_phunktastic_nixieinstrument",
+      "name": "Nixie Instrument",
+      "packageName": "com.phunktastic.nixieinstrument",
+      "url": "https://play.google.com/store/apps/details?id=com.phunktastic.nixieinstrument",
+      "status": "NOT_LIVE"
     }
   ]
 }
